@@ -1,3 +1,4 @@
+//hello
 public class MoveZero {
     public static void main(String[] args) {
         int[] num = {0, 0, 2, 3, 1};
